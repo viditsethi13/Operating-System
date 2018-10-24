@@ -7,3 +7,6 @@ This repository contains all my Operating System Lab assignments that I have com
 * Round Robin
 * SJF
 * Priority Scheduling
+* Reader Writer Problem
+* Producer Consumer Problem using Thread
+* Producer Consumer Problem
