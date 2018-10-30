@@ -10,3 +10,6 @@ This repository contains all my Operating System Lab assignments that I have com
 * Reader Writer Problem
 * Producer Consumer Problem using Thread
 * Producer Consumer Problem
+* Page Replacement FIFO
+* Page Replacement LRU
+* Disk Scheduling FIFO
